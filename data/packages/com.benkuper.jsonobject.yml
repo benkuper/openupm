@@ -1,0 +1,17 @@
+name: com.benkuper.jsonobject
+displayName: JSONObject
+description: Matt Schoen's JSON Library in a Unity package
+repoUrl: https://github.com/benkuper/JSONObject
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: GPL v3
+image: ''
+topics:
+  - frameworks
+  - utilities
+hunter: benkuper
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1731703992876
